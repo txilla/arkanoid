@@ -183,6 +183,7 @@ public class GameScreen extends BaseScreen {
             if (dificultad ==1) {
                 ball.setSpeedX(350);
                 ball.setSpeedY(350);
+                //hola
             }
             else
             {
